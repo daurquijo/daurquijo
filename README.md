@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Henry's Solo Project](https://github.com/daurquijo/PI-Videogames-main)  
   
 
-- 🌱 I’m currently learning C# and .NET  
+- 🌱 I’m currently learning Python and Django  
   
 
 - 📫 Reach me at [email](davidurquijoh@gmail.com)  
